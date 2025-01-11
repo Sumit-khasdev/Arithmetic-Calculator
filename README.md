@@ -1,2 +1,2 @@
 # Arithmetic-Calculator
-This is my first task.
+Implement the logic for basic arithmetic operations..
